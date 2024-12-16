@@ -1,0 +1,20 @@
+body{
+    background-color: #212121;
+    color: #fff;
+    font-family: "Kode Mono", monospace;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+#clock{
+    font-size: 30px;
+    font-weight: 500;
+    background-color: #399c39;
+    padding: 20px 50px;
+    margin-top:5px;
+    border-radius: 10px;
+}
