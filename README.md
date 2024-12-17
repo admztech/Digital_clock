@@ -1,6 +1,6 @@
 # Digital_clock
 
-## This is pratice based project build using the HTML, Css and Js
+## This is practice based project build using the HTML, Css and Js
 
 ## Features
 
